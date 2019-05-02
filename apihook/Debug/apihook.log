@@ -1,0 +1,5 @@
+﻿  apihook.c
+C:\Users\dell\source\repos\apihook\apihook\apihook.c(31): warning C4101: “i”: 未引用的局部变量
+C:\Users\dell\source\repos\apihook\apihook\apihook.c(129): warning C4047: “return”:“DWORD”与“void *”的间接级别不同
+  stdafx.cpp
+  apihook.vcxproj -> C:\Users\dell\source\repos\apihook\Debug\apihook.exe

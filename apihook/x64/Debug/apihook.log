@@ -1,0 +1,18 @@
+﻿  apihook.c
+C:\Users\dell\source\repos\apihook\apihook\apihook.c(65): error C2039: “Esp”: 不是“_CONTEXT”的成员
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(3886): note: 参见“_CONTEXT”的声明
+C:\Users\dell\source\repos\apihook\apihook\apihook.c(66): warning C4022: “ReadProcessMemory”: 指针与实参 3 不匹配
+C:\Users\dell\source\repos\apihook\apihook\apihook.c(66): warning C4047: “函数”:“SIZE_T”与“void *”的间接级别不同
+C:\Users\dell\source\repos\apihook\apihook\apihook.c(66): warning C4024: “ReadProcessMemory”: 形参和实参 4 的类型不同
+C:\Users\dell\source\repos\apihook\apihook\apihook.c(66): error C2198: “ReadProcessMemory”: 用于调用的参数太少
+C:\Users\dell\source\repos\apihook\apihook\apihook.c(67): error C2039: “Esp”: 不是“_CONTEXT”的成员
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(3886): note: 参见“_CONTEXT”的声明
+C:\Users\dell\source\repos\apihook\apihook\apihook.c(68): warning C4022: “ReadProcessMemory”: 指针与实参 3 不匹配
+C:\Users\dell\source\repos\apihook\apihook\apihook.c(68): warning C4047: “函数”:“SIZE_T”与“void *”的间接级别不同
+C:\Users\dell\source\repos\apihook\apihook\apihook.c(68): warning C4024: “ReadProcessMemory”: 形参和实参 4 的类型不同
+C:\Users\dell\source\repos\apihook\apihook\apihook.c(68): error C2198: “ReadProcessMemory”: 用于调用的参数太少
+C:\Users\dell\source\repos\apihook\apihook\apihook.c(80): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID”
+C:\Users\dell\source\repos\apihook\apihook\apihook.c(94): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID”
+C:\Users\dell\source\repos\apihook\apihook\apihook.c(112): error C2039: “Eip”: 不是“_CONTEXT”的成员
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h(3886): note: 参见“_CONTEXT”的声明
+C:\Users\dell\source\repos\apihook\apihook\apihook.c(112): warning C4311: “类型强制转换”: 从“LPVOID”到“DWORD”的指针截断
